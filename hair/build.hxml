@@ -1,0 +1,4 @@
+-swf game.swf
+-main Game
+-swf-header 900:600:120:FF0000
+-swf-version 11.3
